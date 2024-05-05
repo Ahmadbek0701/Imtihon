@@ -1,0 +1,42 @@
+body {
+    background-color: rgba(12, 8, 39, 0.877);
+}
+.container {
+    display: flex;
+}
+.icon {
+    width: 50px;
+    height: 50px;
+    margin-left: 15px;
+    border-radius: 50%;
+    background-color: rgba(255, 0, 0, 0.322);
+}
+.documention {
+    margin-top: 50px;
+    margin-left: 50px;
+    width: max-content;
+    border-radius: 5px;
+    display: flex;
+    background-color:  rgba(12, 8, 39, 0.406);
+}
+.documentation {
+    color: white;
+    margin-left: 15px;
+    margin-top: 30px;
+    font-size: larger;
+    font-weight: 200;
+}
+.lorem {
+    color: gray;
+    width: 500px;
+    margin-left: 15px;
+    margin-top: 30px;
+}
+.img-right {
+    background-color: red;
+    color: darkred;
+    width: 20px;
+    height: 20px;
+    margin-top: 140px;
+    margin-left: 30px;
+}
